@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "form-submissions-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2ebc53fe-fca8-4e1e-9e72-6d1f95363f12",
+			"database_name": "form_submissions_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
